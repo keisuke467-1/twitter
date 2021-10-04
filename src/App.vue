@@ -1,5 +1,5 @@
 <template>
-  <Form message="Welcome to Your Vue.js App"/>
+  <Form msg="irie by irielife"/>
 </template>
 
 <script>
